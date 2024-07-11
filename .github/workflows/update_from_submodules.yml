@@ -25,5 +25,5 @@ jobs:
           git config --global user.name "Your Name"
           git add .
           git commit -m "Update submodules"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/BasselAlShaar/fullstack-repo.git
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/BasselAlShaar/Backend-Flight-Management-System-Project.git
           git push origin HEAD:main
