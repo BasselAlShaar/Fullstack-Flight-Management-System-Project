@@ -1,0 +1,6 @@
+[submodule "Frontend-Flight-Management-System-Project"]
+	path = Frontend-Flight-Management-System-Project
+	url = https://github.com/BasselAlShaar/Frontend-Flight-Management-System-Project.git
+[submodule "Backend-Flight-Management-System-Project"]
+	path = Backend-Flight-Management-System-Project
+	url = https://github.com/BasselAlShaar/Backend-Flight-Management-System-Project.git
